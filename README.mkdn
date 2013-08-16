@@ -1,4 +1,4 @@
-JellyBeer
+CyanFox
 ===========
 
 Getting Started
