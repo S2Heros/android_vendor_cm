@@ -10,7 +10,7 @@
 list_files() {
 cat <<EOF
 etc/hosts
-etc/cyanfox/properties.conf
+etc/beerbong/properties.conf
 EOF
 }
 
