@@ -138,9 +138,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/cm/prebuilt/common/etc/mkshrc:system/etc/mkshrc
 
-PRODUCT_COPY_FILES += \
-    vendor/cm/prebuilt/$(TARGET_PRODUCT).conf:system/etc/cyanfox/properties.conf
-
 # T-Mobile theme engine
 include vendor/cm/config/themes_common.mk
 
